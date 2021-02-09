@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeleeVsMagic", "MeleeVsMagic\MeleeVsMagic.csproj", "{EDED06C5-F5E0-4B82-94F7-013459BDF3AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDED06C5-F5E0-4B82-94F7-013459BDF3AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDED06C5-F5E0-4B82-94F7-013459BDF3AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDED06C5-F5E0-4B82-94F7-013459BDF3AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDED06C5-F5E0-4B82-94F7-013459BDF3AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56796C96-2A11-4C56-AE1C-0430C8D1051C}
+	EndGlobalSection
+EndGlobal
